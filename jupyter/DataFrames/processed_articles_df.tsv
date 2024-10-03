@@ -123,64 +123,6 @@ ByteDance will reportedly use Huawei chips to train a new AI model,"If you click
   +678/NNP
   chars/VBZ
   ]/VB)"
-Nvidia might actually lose in this key part of the AI chip business,"Justin Sullivan/Getty
-<ul><li>Inference made up 40% of Nvidia's $26.3 billion Q2 data center revenue.</li><li>Inference computing demand will increase as AI matures.</li><li>Companies like Groq and … [+4334 chars]",2024-09-01,nvidia might actually lose key part ai chip business,"(S
-  nvidia/NN
-  might/MD
-  actually/RB
-  lose/VB
-  key/JJ
-  part/NN
-  ai/VBP
-  chip/NN
-  business/NN)",justin sullivan/getty < ul > < li > inference make 40 % nvidia 's $ 26.3 billion q2 data center revenue. < /li > < li > inference compute demand increase ai matures. < /li > < li > company like groq … [ +4334 char ],"(S
-  justin/NN
-  sullivan/getty/JJ
-  </NNP
-  ul/NN
-  >/NNP
-  </NNP
-  li/VBZ
-  >/FW
-  inference/NN
-  made/VBD
-  40/CD
-  %/NN
-  nvidia/NN
-  's/POS
-  $/$
-  26.3/CD
-  billion/CD
-  q2/NNS
-  data/NNS
-  center/NN
-  revenue./NN
-  </NNP
-  /li/NNP
-  >/NNP
-  </NNP
-  li/VBZ
-  >/JJ
-  inference/NN
-  computing/VBG
-  demand/NN
-  increase/NN
-  ai/VBP
-  matures./JJ
-  </NNP
-  /li/NNP
-  >/NNP
-  </NNP
-  li/VBZ
-  >/JJ
-  companies/NNS
-  like/IN
-  groq/NN
-  …/NNP
-  [/NNP
-  +4334/NNP
-  chars/VBZ
-  ]/VB)"
 This chart shows one potential advantage AWS's AI chips have over Microsoft and Google,"Noah Berger/Getty Images
 <ul><li>Big tech cloud providers are developing homegrown AI chips to rival Nvidia.</li><li>Amazon, Google, and Microsoft have AI chips, but AWS's offerings have wider avail… [+3550 chars]",2024-09-26,chart show one potential advantage aws 's ai chip microsoft google,"(S
   chart/NN
@@ -288,43 +230,6 @@ Nvidia's days of absolute dominance in AI could be numbered because of this key 
   +6555/NNP
   chars/VBZ
   ]/VB)"
-Nvidia Hit With DOJ Subpoena In Escalating Antitrust Probe,"According to Bloomberg(paywalled), Nvidia has received a subpoena from the U.S. Department of Justice as the regulator seeks evidence that the AI computing company violated antitrust laws. ""The antit… [+615 chars]",2024-09-03,nvidia hit doj subpoena escalate antitrust probe,"(S
-  nvidia/NN
-  hit/VBD
-  doj/JJ
-  subpoena/NN
-  escalating/VBG
-  antitrust/JJ
-  probe/NN)","accord bloomberg ( paywalled ) , nvidia receive subpoena u.s. department justice regulator seek evidence ai compute company violate antitrust law . `` the antit… [ +615 char ]","(S
-  according/VBG
-  bloomberg/NN
-  (/(
-  paywalled/VBN
-  )/)
-  ,/,
-  nvidia/RB
-  received/VBD
-  subpoena/JJ
-  (GPE u.s./NNP)
-  department/NN
-  justice/NN
-  regulator/NN
-  seeks/VBZ
-  evidence/NN
-  ai/NN
-  computing/VBG
-  company/NN
-  violated/VBD
-  antitrust/JJ
-  laws/NNS
-  ./.
-  ``/``
-  the/DT
-  antit…/NN
-  [/NNP
-  +615/NNP
-  chars/VBZ
-  ]/VB)"
 The cult of Nvidia is getting really weird,"Everyone could probably stand to chill about Nvidia.Getty Images; Jenny Chang-Rodriguez/BI
 I probably do not have to tell you that Nvidia has really blown up over the past few years. The tech compan… [+11652 chars]",2024-09-09,cult nvidia get really weird,(S cult/NN nvidia/IN getting/VBG really/RB weird/JJ),everyone could probably stand chill nvidia.getty image ; jenny chang-rodriguez/bi probably tell nvidia really blow past year . tech compan… [ +11652 char ],"(S
   everyone/NN
@@ -387,105 +292,6 @@ I probably do not have to tell you that Nvidia has really blown up over the past
   y…/JJ
   [/NNP
   +3633/NNP
-  chars/VBZ
-  ]/VB)"
-Justice Department takes a major step toward an antitrust lawsuit against Nvidia,"Nvidia is based in Santa Clara, California.Justin Sullivan/Getty Images
-<ul><li>The DOJ subpoenaed Nvidia in its antitrust probe into the chipmaker.</li><li>Officials are investigating whether Nvidi… [+958 chars]",2024-09-03,justice department take major step toward antitrust lawsuit nvidia,"(S
-  justice/NN
-  department/NN
-  takes/VBZ
-  major/JJ
-  step/NN
-  toward/IN
-  antitrust/JJ
-  lawsuit/NN
-  nvidia/NN)","nvidia base santa clara , california.justin sullivan/getty image < ul > < li > the doj subpoenaed nvidia antitrust probe chipmaker. < /li > < li > official investigate whether nvidi… [ +958 char ]","(S
-  nvidia/NNS
-  based/VBN
-  santa/JJ
-  clara/NN
-  ,/,
-  california.justin/NN
-  sullivan/getty/JJ
-  images/NNS
-  </VBP
-  ul/JJ
-  >/NNP
-  </NNP
-  li/VBZ
-  >/VB
-  the/DT
-  doj/NN
-  subpoenaed/NN
-  nvidia/NN
-  antitrust/JJ
-  probe/NN
-  chipmaker./NN
-  </NNP
-  /li/NNP
-  >/NNP
-  </NNP
-  li/VBZ
-  >/JJ
-  officials/NNS
-  investigating/VBG
-  whether/IN
-  nvidi…/JJ
-  [/NNP
-  +958/NNP
-  chars/VBZ
-  ]/VB)"
-Jensen Huang thinks we're all going to have our own R2-D2 or C-3PO robots follow us around,"Jensen Huang sees the next wave of AI as being physical. JOSH EDELSON/Getty Images
-<ul><li>Nvidia CEO Jensen Huang predicts a future with personal robots like R2-D2 and C-3PO from Star Wars.</li><li… [+2218 chars]",2024-09-19,jensen huang think we 're go r2-d2 c-3po robot follow u around,"(S
-  jensen/NN
-  huang/NN
-  thinks/VBZ
-  we/PRP
-  're/VBP
-  going/VBG
-  r2-d2/JJ
-  c-3po/JJ
-  robots/NNS
-  follow/VBP
-  us/PRP
-  around/IN)",jensen huang see next wave ai physical . josh edelson/getty image < ul > < li > nvidia ceo jensen huang predict future personal robot like r2-d2 c-3po star wars. < /li > < li… [ +2218 char ],"(S
-  jensen/NN
-  huang/NN
-  sees/NNS
-  next/JJ
-  wave/NN
-  ai/JJ
-  physical/JJ
-  ./.
-  josh/NN
-  edelson/getty/JJ
-  images/NNS
-  </VBP
-  ul/JJ
-  >/NNP
-  </NNP
-  li/VBZ
-  >/JJ
-  nvidia/JJ
-  ceo/NN
-  jensen/NN
-  huang/NN
-  predicts/VBZ
-  future/JJ
-  personal/JJ
-  robots/NNS
-  like/IN
-  r2-d2/JJ
-  c-3po/JJ
-  star/NN
-  wars./NN
-  </NNP
-  /li/NNP
-  >/NNP
-  </NNP
-  li…/VBZ
-  [/NNP
-  +2218/NNP
   chars/VBZ
   ]/VB)"
 Nvidia's Jensen Huang just crashed out of the $100 billion club after his net worth plunged by almost $10 billion,"Nvidia CEO Jensen Huang is no longer a member of a very exclusive club.Sam Yeh/AFP/Getty Images
@@ -635,6 +441,113 @@ Larry Ellison says he and Elon Musk 'begged' Jensen Huang for GPUs over dinner,"
   earnings…/JJ
   [/NN
   +1994/NNP
+  chars/VBZ
+  ]/VB)"
+Jensen Huang thinks we're all going to have our own R2-D2 or C-3PO robots follow us around,"Jensen Huang sees the next wave of AI as being physical. JOSH EDELSON/Getty Images
+<ul><li>Nvidia CEO Jensen Huang predicts a future with personal robots like R2-D2 and C-3PO from Star Wars.</li><li… [+2218 chars]",2024-09-19,jensen huang think we 're go r2-d2 c-3po robot follow u around,"(S
+  jensen/NN
+  huang/NN
+  thinks/VBZ
+  we/PRP
+  're/VBP
+  going/VBG
+  r2-d2/JJ
+  c-3po/JJ
+  robots/NNS
+  follow/VBP
+  us/PRP
+  around/IN)",jensen huang see next wave ai physical . josh edelson/getty image < ul > < li > nvidia ceo jensen huang predict future personal robot like r2-d2 c-3po star wars. < /li > < li… [ +2218 char ],"(S
+  jensen/NN
+  huang/NN
+  sees/NNS
+  next/JJ
+  wave/NN
+  ai/JJ
+  physical/JJ
+  ./.
+  josh/NN
+  edelson/getty/JJ
+  images/NNS
+  </VBP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/JJ
+  nvidia/JJ
+  ceo/NN
+  jensen/NN
+  huang/NN
+  predicts/VBZ
+  future/JJ
+  personal/JJ
+  robots/NNS
+  like/IN
+  r2-d2/JJ
+  c-3po/JJ
+  star/NN
+  wars./NN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  li…/VBZ
+  [/NNP
+  +2218/NNP
+  chars/VBZ
+  ]/VB)"
+The AI boom turned Nvidia into a trillion-dollar giant. Its next big bet is even more complex.,"ktsimage/Getty,Justin Sullivan/Getty, Tyler Le/BI
+<ul><li>Nvidia's gaming past and mastering of the GPU made it well-positioned for the AI boom.</li><li>Its next market to corner is advanced robotic… [+9784 chars]",2024-10-01,ai boom turn nvidia trillion-dollar giant . next big bet even complex .,"(S
+  ai/NN
+  boom/NN
+  turned/VBD
+  nvidia/JJ
+  trillion-dollar/JJ
+  giant/NN
+  ./.
+  next/JJ
+  big/JJ
+  bet/NN
+  even/RB
+  complex/JJ
+  ./.)","ktsimage/getty , justin sullivan/getty , tyler le/bi < ul > < li > nvidia 's gaming past master gpu make well-positioned ai boom. < /li > < li > it next market corner advance robotic… [ +9784 char ]","(S
+  ktsimage/getty/NN
+  ,/,
+  justin/NN
+  sullivan/getty/NN
+  ,/,
+  tyler/NN
+  le/bi/NN
+  </NNP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/NNP
+  nvidia/NN
+  's/POS
+  gaming/NN
+  past/IN
+  mastering/VBG
+  gpu/NN
+  made/VBD
+  well-positioned/JJ
+  ai/JJ
+  boom./NN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  li/VBZ
+  >/VB
+  its/PRP$
+  next/JJ
+  market/NN
+  corner/NN
+  advanced/VBD
+  robotic…/JJ
+  [/NNP
+  +9784/NNP
   chars/VBZ
   ]/VB)"
 "After Jensen Huang's Nvidia wipeout, no one has gained more wealth than Mark Zuckerberg in 2024 — becoming $54 billion richer","Meta CEO Mark Zuckerberg (left) and Nvidia CEO Jensen Huang (right).STR/JIJI Press/AFP via Getty Images; Josh Edelson/AFP via Getty Images
@@ -930,44 +843,6 @@ What Nvidia leadership should be doing to prepare for a possible DOJ case,"Jense
   +4875/NNP
   chars/VBZ
   ]/VB)"
-Nvidia Takes an Added Role Amid AI Craze: Data-Center Designer,"Chief Executive Jensen Huang is increasingly broadening his company's focus -- and seeking to widen its advantage over competitors -- by offering software, data-center design services and networking … [+2078 chars]",2024-09-03,nvidia take added role amid ai craze : data-center designer,"(S
-  nvidia/JJ
-  takes/VBZ
-  added/JJ
-  role/NN
-  amid/IN
-  ai/JJ
-  craze/NN
-  :/:
-  data-center/NN
-  designer/NN)","chief executive jensen huang increasingly broaden company 's focus -- seek widen advantage competitor -- offer software , data-center design service network … [ +2078 char ]","(S
-  chief/JJ
-  executive/NN
-  jensen/NN
-  huang/VBD
-  increasingly/RB
-  broadening/VBG
-  company/NN
-  's/POS
-  focus/NN
-  --/:
-  seeking/VBG
-  widen/JJ
-  advantage/NN
-  competitors/NNS
-  --/:
-  offering/VBG
-  software/NN
-  ,/,
-  data-center/NN
-  design/NN
-  services/NNS
-  networking/VBG
-  …/JJ
-  [/NNP
-  +2078/NNP
-  chars/VBZ
-  ]/VB)"
 Why countries are in a race to build AI factories in the name of sovereign AI,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
 Now that AI has become a fundamentally important technology, and the wo… [+19185 chars]",2024-09-26,country race build ai factory name sovereign ai,"(S
   countries/NNS
@@ -1149,50 +1024,6 @@ Nvidia CEO Jensen Huang tells David Solomon companies get things done 20 times f
   +3097/NNP
   chars/VBZ
   ]/VB)"
-Chip companies like Nvidia and Intel are facing a major gender gap amid the AI boom,"A woman works at a semiconductor plant in Yangxin county in east China's Shandong province.Feature China/Getty Images
-<ul><li>Less than one-third of the semiconductor workforce is female, with few i… [+8308 chars]",2024-09-02,chip company like nvidia intel face major gender gap amid ai boom,"(S
-  chip/NN
-  companies/NNS
-  like/IN
-  nvidia/JJ
-  intel/NN
-  facing/VBG
-  major/JJ
-  gender/NN
-  gap/NN
-  amid/IN
-  ai/NN
-  boom/NN)","woman work semiconductor plant yangxin county east china 's shandong province.feature china/getty image < ul > < li > less one-third semiconductor workforce female , i… [ +8308 char ]","(S
-  woman/NN
-  works/VBZ
-  semiconductor/NN
-  plant/NN
-  yangxin/NN
-  county/NN
-  east/IN
-  china/NN
-  's/POS
-  shandong/JJ
-  province.feature/NN
-  china/getty/NN
-  images/NNS
-  </VBP
-  ul/JJ
-  >/NNP
-  </NNP
-  li/VBD
-  >/NNP
-  less/RBR
-  one-third/JJ
-  semiconductor/NN
-  workforce/NN
-  female/NN
-  ,/,
-  i…/JJ
-  [/NNP
-  +8308/NNP
-  chars/VBZ
-  ]/VB)"
 Nvidia is in vogue — just ask the designer behind these viral GPU purses,"Tessa Barton started creating GPU purses last year.Tessa Barton
 <ul><li>Nvidia's stock has surged due to the AI boom, making it a multi-trillion-dollar company.</li><li>The company and its CEO, Jens… [+3132 chars]",2024-09-17,nvidia vogue — ask designer behind viral gpu purse,"(S
   nvidia/RB
@@ -1305,50 +1136,6 @@ Nvidia is in vogue — just ask the designer behind these viral GPU purses,"Tess
   ,/,
   including/VBG
   240/CD
-  part/NN
-  iab/NN
-  transparency/NN
-  &/CC
-  amp/NN
-  ;/:
-  consent/NN
-  framework/NN
-  ,/,
-  also/RB
-  store/VBP
-  and/or/JJ
-  access/NN
-  information/NN
-  device/NN
-  (/(
-  in/IN
-  words/NNS
-  ,/,
-  use/NN
-  …/JJ
-  [/NNP
-  +678/NNP
-  chars/VBZ
-  ]/VB)"
-"Musk's xAI Supercomputer Goes Online With 100,000 Nvidia GPUs","If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",2024-09-03,"musk 's xai supercomputer go online 100,000 nvidia gpus","(S
-  musk/NN
-  's/POS
-  xai/JJ
-  supercomputer/NN
-  goes/VBZ
-  online/JJ
-  100,000/CD
-  nvidia/JJ
-  gpus/NN)","click 'accept all ' , partner , include 239 part iab transparency & amp ; consent framework , also store and/or access information device ( in word , use … [ +678 char ]","(S
-  click/NN
-  'accept/IN
-  all/DT
-  '/''
-  ,/,
-  partners/NNS
-  ,/,
-  including/VBG
-  239/CD
   part/NN
   iab/NN
   transparency/NN
@@ -1781,62 +1568,6 @@ NVIDIA Corporation (NVDA) a Good Big Tech Stock to Buy Now?,"We recently compile
   +5323/NNP
   chars/VBZ
   ]/VB)"
-"Blitzy, a Boston startup automating coding, just raised $4.4 million using this 10-slide pitch deck","Blitzy cofounders Brian Elliott and Sid Pardeshi.Blitzy
-<ul><li>Startup Blitzy has raised $4.4 million to build its team in Boston.</li><li>A former Nvidia engineer cofounded Blitzy to automate cust… [+1767 chars]",2024-09-03,"blitzy , boston startup automate coding , raise $ 4.4 million use 10-slide pitch deck","(S
-  blitzy/NN
-  ,/,
-  boston/NN
-  startup/NN
-  automating/VBG
-  coding/NN
-  ,/,
-  raised/VBD
-  $/$
-  4.4/CD
-  million/CD
-  using/VBG
-  10-slide/JJ
-  pitch/NN
-  deck/NN)",blitzy cofounder brian elliott sid pardeshi.blitzy < ul > < li > startup blitzy raise $ 4.4 million build team boston. < /li > < li > a former nvidia engineer cofounded blitzy automate cust… [ +1767 char ],"(S
-  blitzy/NN
-  cofounders/NNS
-  brian/JJ
-  elliott/NN
-  sid/NN
-  pardeshi.blitzy/NN
-  </NNP
-  ul/JJ
-  >/NNP
-  </NNP
-  li/VBZ
-  >/NNP
-  startup/NN
-  blitzy/NN
-  raised/VBD
-  $/$
-  4.4/CD
-  million/CD
-  build/NN
-  team/NN
-  boston./NN
-  </NNP
-  /li/NNP
-  >/NNP
-  </NNP
-  li/VBZ
-  >/VB
-  a/DT
-  former/JJ
-  nvidia/NN
-  engineer/NN
-  cofounded/VBD
-  blitzy/JJ
-  automate/NN
-  cust…/NN
-  [/NNP
-  +1767/NNP
-  chars/VBZ
-  ]/VB)"
 Nvidia is reportedly sunsetting the RTX 4090,"The RTX 4090 is undoubtedly the best graphics card you can buy right now from a performance standpoint, but Nvidia is reportedly discontinuing the flagship GPU. Reports from the Board Channel forums … [+2041 chars]",2024-09-17,nvidia reportedly sunsetting rtx 4090,(S nvidia/RB reportedly/RB sunsetting/VBG rtx/NN 4090/CD),"rtx 4090 undoubtedly best graphic card buy right performance standpoint , nvidia reportedly discontinue flagship gpu . report board channel forum … [ +2041 char ]","(S
   rtx/NN
   4090/CD
@@ -1864,51 +1595,6 @@ Nvidia is reportedly sunsetting the RTX 4090,"The RTX 4090 is undoubtedly the be
   +2041/NNP
   chars/NNS
   ]/VBP)"
-NVIDIA Founder Jensen Huang to Receive Lifetime Achievement Award at Engineering Emmys,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",2024-09-03,nvidia founder jensen huang receive lifetime achievement award engineering emmy,"(S
-  nvidia/JJ
-  founder/NN
-  jensen/NN
-  huang/VBD
-  receive/JJ
-  lifetime/NN
-  achievement/JJ
-  award/NN
-  engineering/NN
-  emmys/NN)","click 'accept all ' , partner , include 239 part iab transparency & amp ; consent framework , also store and/or access information device ( in word , use … [ +678 char ]","(S
-  click/NN
-  'accept/IN
-  all/DT
-  '/''
-  ,/,
-  partners/NNS
-  ,/,
-  including/VBG
-  239/CD
-  part/NN
-  iab/NN
-  transparency/NN
-  &/CC
-  amp/NN
-  ;/:
-  consent/NN
-  framework/NN
-  ,/,
-  also/RB
-  store/VBP
-  and/or/JJ
-  access/NN
-  information/NN
-  device/NN
-  (/(
-  in/IN
-  words/NNS
-  ,/,
-  use/NN
-  …/JJ
-  [/NNP
-  +678/NNP
-  chars/VBZ
-  ]/VB)"
 NVIDIA (NVDA) CEO Jensen Huang Points to $1 Trillion Opportunity for the Company,"If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]",2024-09-16,nvidia ( nvda ) ceo jensen huang point $ 1 trillion opportunity company,"(S
   nvidia/NN
   (/(
@@ -2142,6 +1828,46 @@ Show HN: Tune LLaMa3.1 on Google Cloud TPUs,Felafax is a framework for continued
   +2578/NNP
   chars/VBZ
   ]/VB)"
+The Nvidia app just added a feature I’ve wanted for years,"Nvidia just released a big update for its Nvidia app. If you’re unfamiliar, Nvidia has been slowly integrating features and settings from GeForce Experience, the Nvidia Control Panel, and other apps … [+2523 chars]",2024-10-01,nvidia app added feature i ’ ve want year,"(S
+  nvidia/RB
+  app/NN
+  added/JJ
+  feature/NN
+  i/NN
+  ’/VBP
+  ve/NN
+  wanted/VBD
+  years/NNS)","nvidia release big update nvidia app . you ’ re unfamiliar , nvidia slowly integrate feature setting geforce experience , nvidia control panel , apps … [ +2523 char ]","(S
+  nvidia/NNS
+  released/VBN
+  big/JJ
+  update/JJ
+  nvidia/NN
+  app/NN
+  ./.
+  you/PRP
+  ’/VBP
+  re/JJ
+  unfamiliar/NN
+  ,/,
+  nvidia/JJ
+  slowly/RB
+  integrating/VBG
+  features/NNS
+  settings/NNS
+  geforce/NN
+  experience/NN
+  ,/,
+  nvidia/FW
+  control/NN
+  panel/NN
+  ,/,
+  apps/JJ
+  …/NNP
+  [/NNP
+  +2523/NNP
+  chars/VBZ
+  ]/VB)"
 Nvidia RTX 50-series GPUs: everything we know so far,"Jacob Roach / Digital Trends
 Nvidia already makes some of the best graphics cards, but it’s also not resting on its laurels. Although the RTX 40-series, which has been bolstered by a refresh, is sti… [+25636 chars]",2024-09-06,nvidia rtx 50-series gpus : everything know far,"(S
   nvidia/JJ
@@ -2229,6 +1955,50 @@ NEW YORK (Reuters) - The owners of Switch are exploring an initial public offeri
   including…/NN
   [/NNP
   +2346/NNP
+  chars/VBZ
+  ]/VB)"
+Nvidia releases NVLM 1.0 72B open weight model,"Model Details
+Today (September 17th, 2024), we introduce NVLM 1.0, a family of frontier-class multimodal large language models (LLMs) that achieve state-of-the-art results on vision-language tasks, … [+10209 chars]",2024-10-02,nvidia release nvlm 1.0 72b open weight model,"(S
+  nvidia/NN
+  releases/VBZ
+  nvlm/RB
+  1.0/CD
+  72b/CD
+  open/JJ
+  weight/NN
+  model/NN)","model detail today ( september 17th , 2024 ) , introduce nvlm 1.0 , family frontier-class multimodal large language model ( llm ) achieve state-of-the-art result vision-language task , … [ +10209 char ]","(S
+  model/NN
+  details/NNS
+  today/NN
+  (/(
+  september/VB
+  17th/CD
+  ,/,
+  2024/CD
+  )/)
+  ,/,
+  introduce/VBP
+  nvlm/JJ
+  1.0/CD
+  ,/,
+  family/NN
+  frontier-class/NN
+  multimodal/NN
+  large/JJ
+  language/NN
+  models/NNS
+  (/(
+  llms/NNS
+  )/)
+  achieve/VBP
+  state-of-the-art/JJ
+  results/NNS
+  vision-language/JJ
+  tasks/NNS
+  ,/,
+  …/NNP
+  [/NNP
+  +10209/NNP
   chars/VBZ
   ]/VB)"
 1 Solid AI Stock That's Not Nvidia or Palantir to Focus On in the Next Few Years,"Artificial intelligence (AI) is probably one of the biggest trends that will change our daily lives in the coming decades. While AI is still in its early development stage, companies like Nvidia and … [+5665 chars]",2024-09-19,1 solid ai stock that 's nvidia palantir focus next year,"(S
@@ -2369,42 +2139,6 @@ Here’s How Much Money You Missed Out on If You Didn’t Buy 100 Shares of Nvid
   +678/NNP
   chars/VBZ
   ]/VB)"
-This Alienware gaming laptop with RTX 4080 is $500 off,"Dell
-The popular and powerful Alienware m18 R2 gaming laptop with the Nvidia GeForce RTX 4080 graphics card, which usually sells for $3,100, is available for a discounted price of $2,600. There’s no… [+1853 chars]",2024-09-13,alienware game laptop rtx 4080 $ 500,(S alienware/NN gaming/VBG laptop/JJ rtx/NN 4080/CD $/$ 500/CD),"dell popular powerful alienware m18 r2 game laptop nvidia geforce rtx 4080 graphic card , usually sell $ 3,100 , available discount price $ 2,600 . there ’ s no… [ +1853 char ]","(S
-  dell/NN
-  popular/JJ
-  powerful/JJ
-  alienware/NN
-  m18/NN
-  r2/NN
-  gaming/VBG
-  laptop/JJ
-  nvidia/NN
-  geforce/NN
-  rtx/NN
-  4080/CD
-  graphics/NNS
-  card/NN
-  ,/,
-  usually/RB
-  sells/VBZ
-  $/$
-  3,100/CD
-  ,/,
-  available/JJ
-  discounted/VBN
-  price/NN
-  $/$
-  2,600/CD
-  ./.
-  there/EX
-  ’/JJ
-  s/NN
-  no…/NN
-  [/NNP
-  +1853/NNP
-  chars/VBZ
-  ]/VB)"
 "To make the most of NVIDIA RTX AI PCs, opt for GIGABYTE’s latest laptops","You may or may not already know this, but NVIDIA’s latest GPUs, the NVIDIA GeForce RTX 40 Series, are built to enhance compatibility and performance in the era of AI. More specifically, NVIDIA’s indu… [+5355 chars]",2024-09-24,"make nvidia rtx ai pc , opt gigabyte ’ s late laptop","(S
   make/VB
   nvidia/JJ
@@ -2451,6 +2185,42 @@ The popular and powerful Alienware m18 R2 gaming laptop with the Nvidia GeForce 
   indu…/NN
   [/NNP
   +5355/NNP
+  chars/VBZ
+  ]/VB)"
+This Alienware gaming laptop with RTX 4080 is $500 off,"Dell
+The popular and powerful Alienware m18 R2 gaming laptop with the Nvidia GeForce RTX 4080 graphics card, which usually sells for $3,100, is available for a discounted price of $2,600. There’s no… [+1853 chars]",2024-09-13,alienware game laptop rtx 4080 $ 500,(S alienware/NN gaming/VBG laptop/JJ rtx/NN 4080/CD $/$ 500/CD),"dell popular powerful alienware m18 r2 game laptop nvidia geforce rtx 4080 graphic card , usually sell $ 3,100 , available discount price $ 2,600 . there ’ s no… [ +1853 char ]","(S
+  dell/NN
+  popular/JJ
+  powerful/JJ
+  alienware/NN
+  m18/NN
+  r2/NN
+  gaming/VBG
+  laptop/JJ
+  nvidia/NN
+  geforce/NN
+  rtx/NN
+  4080/CD
+  graphics/NNS
+  card/NN
+  ,/,
+  usually/RB
+  sells/VBZ
+  $/$
+  3,100/CD
+  ,/,
+  available/JJ
+  discounted/VBN
+  price/NN
+  $/$
+  2,600/CD
+  ./.
+  there/EX
+  ’/JJ
+  s/NN
+  no…/NN
+  [/NNP
+  +1853/NNP
   chars/VBZ
   ]/VB)"
 Microsoft and Abu Dhabi's MGX To Back $30 Billion BlackRock AI Infrastructure,An anonymous reader quotes a report from Data Center Dynamics: BlackRock plans to launch a new $30 billion artificial intelligence (AI) investment fund focused on data centers and energy projects. Mi… [+1499 chars],2024-09-19,microsoft abu dhabi 's mgx back $ 30 billion blackrock ai infrastructure,"(S
@@ -2651,52 +2421,6 @@ IN TODAYS NEWSLETTER:
   +1313/NNP
   chars/VBZ
   ]/VB)"
-This Alienware gaming laptop with RTX 4090 is $700 off for Labor Day,"Dell
-Every dollar saved counts when you’re buying a premium gaming laptop, so you don’t want to miss this opportunity at a $700 discount for the Alienware m18 R2 from the Labor Day sales of Dell. Th… [+1897 chars]",2024-09-02,alienware game laptop rtx 4090 $ 700 labor day,"(S
-  alienware/NN
-  gaming/VBG
-  laptop/JJ
-  rtx/NN
-  4090/CD
-  $/$
-  700/CD
-  labor/NN
-  day/NN)","dell every dollar save count you ’ re buying premium game laptop , don ’ t want miss opportunity $ 700 discount alienware m18 r2 labor day sale dell . th… [ +1897 char ]","(S
-  dell/NN
-  every/DT
-  dollar/NN
-  saved/VBD
-  counts/NNS
-  you/PRP
-  ’/VBP
-  re/JJ
-  buying/NN
-  premium/NN
-  gaming/VBG
-  laptop/JJ
-  ,/,
-  don/JJ
-  ’/VBP
-  t/NN
-  want/VBP
-  miss/JJ
-  opportunity/NN
-  $/$
-  700/CD
-  discount/NN
-  alienware/NN
-  m18/NN
-  r2/JJ
-  labor/NN
-  day/NN
-  sales/NNS
-  dell/VBP
-  ./.
-  th…/NN
-  [/JJ
-  +1897/NNP
-  chars/NNS
-  ]/VBP)"
 Legendary Mario creator on AI: Nintendo is “going the opposite direction”,"Artist's conception of Miyamoto preparing to fend off investors eager for more generative AI integration.
 1
 In the last few years, large swaths of the game industry have embraced generative AI, bot… [+2186 chars]",2024-09-26,legendary mario creator ai : nintendo “ go opposite direction ”,"(S
@@ -3791,42 +3515,6 @@ What you need to know about AI PCs and how to choose one,"There has been a surge
   +4136/NNP
   chars/VBZ
   ]/VB)"
-"Zen, CUDA, and Tensor Cores, Part I: The Silicon",This is part 1 of a miniseries on todays common consumer computing cores. It contains investigations into undisclosed hardware details. I have tried to validate the accuracy of the series by consulti… [+22410 chars],2024-09-03,"zen , cuda , tensor core , part i : silicon","(S
-  zen/NN
-  ,/,
-  cuda/NN
-  ,/,
-  tensor/NN
-  cores/NNS
-  ,/,
-  part/NN
-  i/NN
-  :/:
-  silicon/NN)",part 1 miniseries todays common consumer computing core . contains investigation undisclosed hardware detail . tried validate accuracy series consulti… [ +22410 char ],"(S
-  part/NN
-  1/CD
-  miniseries/NNS
-  todays/JJ
-  common/JJ
-  consumer/NN
-  computing/NN
-  cores/NNS
-  ./.
-  contains/NNS
-  investigations/NNS
-  undisclosed/JJ
-  hardware/NN
-  details/NNS
-  ./.
-  tried/JJ
-  validate/NN
-  accuracy/NN
-  series/NN
-  consulti…/NN
-  [/NNP
-  +22410/NNP
-  chars/VBZ
-  ]/VB)"
 Hetzner introduces GPU server for AI training,"Discover the next level of performance with the new GEX130 dedicated GPU server. Equipped with the NVIDIA RTX 6000 Ada generation graphics card, it can put ideas into practice even faster and highly … [+455 chars]",2024-09-25,hetzner introduces gpu server ai train,(S hetzner/NN introduces/NNS gpu/VBP server/RB ai/VBP training/VBG),"discover next level performance new gex130 dedicate gpu server . equip nvidia rtx 6000 ada generation graphic card , put idea practice even faster highly … [ +455 char ]","(S
   discover/RB
   next/JJ
@@ -3915,6 +3603,45 @@ Hetzner introduces GPU server for AI training,"Discover the next level of perfor
   +2518/NNP
   chars/VBZ
   ]/VB)"
+SambaNova challenges OpenAI’s o1 model with Llama 3.1-powered demo on HuggingFace,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
+SambaNova Systems has just unveiled a new demo on Hugging Face, offerin… [+6035 chars]",2024-09-16,sambanova challenge openai ’ s o1 model llama 3.1-powered demo huggingface,"(S
+  sambanova/NN
+  challenges/NNS
+  openai/VBP
+  ’/JJ
+  s/NN
+  o1/NN
+  model/NN
+  llama/VBD
+  3.1-powered/JJ
+  demo/NN
+  huggingface/NN)","join daily weekly newsletter late update exclusive content industry-leading ai coverage . learn sambanova system unveil new demo hug face , offerin… [ +6035 char ]","(S
+  join/NNS
+  daily/JJ
+  weekly/JJ
+  newsletters/NNS
+  latest/JJS
+  updates/NNS
+  exclusive/JJ
+  content/JJ
+  industry-leading/JJ
+  ai/NN
+  coverage/NN
+  ./.
+  learn/JJ
+  sambanova/JJ
+  systems/NNS
+  unveiled/VBD
+  new/JJ
+  demo/NN
+  hugging/VBG
+  face/NN
+  ,/,
+  offerin…/JJ
+  [/NNP
+  +6035/NNP
+  chars/VBZ
+  ]/VB)"
 MSI teases a STALKER 2-themed NVIDIA RTX graphics card ahead of the game's launch,"What you need to know
 <ul><li>MSI is teasing a new graphics card themed after STALKER 2. </li><li>There's no date, but the teaser indicates that more details are coming soon.</li><li>After multiple … [+1651 chars]",2024-09-26,msi tease stalker 2-themed nvidia rtx graphic card ahead game 's launch,"(S
   msi/NN
@@ -3974,43 +3701,30 @@ MSI teases a STALKER 2-themed NVIDIA RTX graphics card ahead of the game's launc
   +1651/NNP
   chars/VBZ
   ]/VB)"
-SambaNova challenges OpenAI’s o1 model with Llama 3.1-powered demo on HuggingFace,"Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage. Learn More
-SambaNova Systems has just unveiled a new demo on Hugging Face, offerin… [+6035 chars]",2024-09-16,sambanova challenge openai ’ s o1 model llama 3.1-powered demo huggingface,"(S
-  sambanova/NN
-  challenges/NNS
-  openai/VBP
-  ’/JJ
-  s/NN
-  o1/NN
-  model/NN
-  llama/VBD
-  3.1-powered/JJ
-  demo/NN
-  huggingface/NN)","join daily weekly newsletter late update exclusive content industry-leading ai coverage . learn sambanova system unveil new demo hug face , offerin… [ +6035 char ]","(S
-  join/NNS
-  daily/JJ
-  weekly/JJ
-  newsletters/NNS
-  latest/JJS
-  updates/NNS
-  exclusive/JJ
-  content/JJ
-  industry-leading/JJ
-  ai/NN
-  coverage/NN
-  ./.
-  learn/JJ
-  sambanova/JJ
-  systems/NNS
-  unveiled/VBD
-  new/JJ
-  demo/NN
-  hugging/VBG
-  face/NN
+How I turned OBS into a ShadowPlay replacement,"If you have an Nvidia graphics card, you've probably heard of ShadowPlay. It's a feature that you can enable so that when you press a key bind, it saves the last X amount of minutes to a folder on yo… [+2667 chars]",2024-09-16,turn obs shadowplay replacement,(S turned/VBN obs/JJ shadowplay/NN replacement/NN),"nvidia graphic card , probably hear shadowplay . feature enable press key bind , save last x amount minute folder yo… [ +2667 char ]","(S
+  nvidia/JJ
+  graphics/NNS
+  card/NN
   ,/,
-  offerin…/JJ
+  probably/RB
+  heard/VBD
+  shadowplay/NN
+  ./.
+  feature/NN
+  enable/JJ
+  press/NN
+  key/NN
+  bind/NN
+  ,/,
+  saves/VBZ
+  last/JJ
+  x/JJ
+  amount/NN
+  minutes/NNS
+  folder/VBP
+  yo…/JJ
   [/NNP
-  +6035/NNP
+  +2667/NNP
   chars/VBZ
   ]/VB)"
 How to fix Nvidia GeForce Experience 'driver download failed' error on Windows?,"If you have a gaming PC, updating drivers is important for maintaining PC health and performance. Making sure that your PC is always updated can also spare you from the need to troubleshoot unnecessa… [+6068 chars]",2024-09-05,fix nvidia geforce experience 'driver download fail ' error window ?,"(S
@@ -4048,32 +3762,6 @@ How to fix Nvidia GeForce Experience 'driver download failed' error on Windows?,
   unnecessa…/JJ
   [/NNP
   +6068/NNP
-  chars/VBZ
-  ]/VB)"
-How I turned OBS into a ShadowPlay replacement,"If you have an Nvidia graphics card, you've probably heard of ShadowPlay. It's a feature that you can enable so that when you press a key bind, it saves the last X amount of minutes to a folder on yo… [+2667 chars]",2024-09-16,turn obs shadowplay replacement,(S turned/VBN obs/JJ shadowplay/NN replacement/NN),"nvidia graphic card , probably hear shadowplay . feature enable press key bind , save last x amount minute folder yo… [ +2667 char ]","(S
-  nvidia/JJ
-  graphics/NNS
-  card/NN
-  ,/,
-  probably/RB
-  heard/VBD
-  shadowplay/NN
-  ./.
-  feature/NN
-  enable/JJ
-  press/NN
-  key/NN
-  bind/NN
-  ,/,
-  saves/VBZ
-  last/JJ
-  x/JJ
-  amount/NN
-  minutes/NNS
-  folder/VBP
-  yo…/JJ
-  [/NNP
-  +2667/NNP
   chars/VBZ
   ]/VB)"
 "The viral ‘GPU purse’ costs $1,024 — but you can make your own for $40","GPU Purse
@@ -4354,5 +4042,390 @@ Apple's event will serve as a litmus test for the wider AI industry,"Apple
   annou…/JJ
   [/NNP
   +6981/NNP
+  chars/VBZ
+  ]/VB)"
+Engagement bait's rise on Threads is another example of how we just can't help ourselves on social media,"Jaap Arriens/Getty
+<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily newsletter here.</li></ul>Happy Friday! Do you peel car… [+7161 chars]",2024-09-13,engagement bait 's rise thread another example ca n't help social medium,"(S
+  engagement/JJ
+  bait/NN
+  's/POS
+  rise/NN
+  threads/VBZ
+  another/DT
+  example/NN
+  ca/MD
+  n't/RB
+  help/VB
+  social/JJ
+  media/NNS)",jaap arriens/getty < ul > < li > this post originally appear insider today newsletter. < /li > < li > you sign business insider 's daily newsletter here. < /li > < /ul > happy friday ! peel car… [ +7161 char ],"(S
+  jaap/NN
+  arriens/getty/RB
+  </NNP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/VB
+  this/DT
+  post/NN
+  originally/RB
+  appeared/VBD
+  insider/NN
+  today/NN
+  newsletter./IN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  li/VBZ
+  >/NNP
+  you/PRP
+  sign/VBP
+  business/NN
+  insider/NN
+  's/POS
+  daily/JJ
+  newsletter/NN
+  here./NN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  /ul/NNP
+  >/NNP
+  happy/JJ
+  friday/NN
+  !/.
+  peel/NN
+  car…/NN
+  [/NNP
+  +7161/NNP
+  chars/VBZ
+  ]/VB)"
+OpenAI has 4 big challenges it needs to conquer in its quest for AI dominance,"Sam Altman's OpenAI is up against four big challenges — and right now, the company's bleeding top talent.Didem Mente/Getty Images
+<ul><li>OpenAI just lost another key leader, CTO Mira Murati.</li><l… [+7555 chars]",2024-09-26,openai 4 big challenge need conquer quest ai dominance,"(S
+  openai/RB
+  4/CD
+  big/JJ
+  challenges/NNS
+  needs/VBZ
+  conquer/NN
+  quest/NN
+  ai/NN
+  dominance/NN)","sam altman 's openai four big challenge — right now , company 's bleeding top talent.didem mente/getty image < ul > < li > openai lose another key leader , cto mira murati. < /li > < l… [ +7555 char ]","(S
+  sam/JJ
+  altman/NN
+  's/POS
+  openai/JJ
+  four/CD
+  big/JJ
+  challenges/NNS
+  —/VBP
+  right/RB
+  now/RB
+  ,/,
+  company/NN
+  's/POS
+  bleeding/NN
+  top/JJ
+  talent.didem/NN
+  mente/getty/NN
+  images/NNS
+  </VBP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/NNP
+  openai/NN
+  lost/VBD
+  another/DT
+  key/JJ
+  leader/NN
+  ,/,
+  cto/VB
+  mira/NN
+  murati./NN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  l…/VBZ
+  [/NNP
+  +7555/NNP
+  chars/VBZ
+  ]/VB)"
+Nvidia is back in the $3 trillion club — and Jensen Huang is $2 billion richer,"In This Story
+Nvidia (NVDA) chief executive Jensen Huang is $2.3 billion richer thanks to a recent bump in Nvidia stock.
+Shares of the chip giant were up more than 2% in pre-market trading, after c… [+2041 chars]",2024-09-26,nvidia back $ 3 trillion club — jensen huang $ 2 billion richer,"(S
+  nvidia/RB
+  back/RB
+  $/$
+  3/CD
+  trillion/CD
+  club/NN
+  —/NNP
+  jensen/NN
+  huang/VBD
+  $/$
+  2/CD
+  billion/CD
+  richer/NNS)","story nvidia ( nvda ) chief executive jensen huang $ 2.3 billion rich thanks recent bump nvidia stock . share chip giant 2 % pre-market trading , c… [ +2041 char ]","(S
+  story/NN
+  nvidia/NN
+  (/(
+  nvda/JJ
+  )/)
+  chief/JJ
+  executive/NN
+  jensen/NN
+  huang/VBD
+  $/$
+  2.3/CD
+  billion/CD
+  richer/JJR
+  thanks/NNS
+  recent/JJ
+  bump/NN
+  nvidia/IN
+  stock/NN
+  ./.
+  shares/NNS
+  chip/NN
+  giant/JJ
+  2/CD
+  %/NN
+  pre-market/JJ
+  trading/NN
+  ,/,
+  c…/VBP
+  [/JJ
+  +2041/NNP
+  chars/NNS
+  ]/VBP)"
+Sony confirms PS5 Pro has next-gen ray-tracing tech and 'there are no other AMD GPUs that use it yet',"When you buy through links on our articles, Future and its syndication partners may earn a commission.
+From a PC gaming perspective, easily the most interesting aspect of the new Sony PS5 Pro consol… [+3058 chars]",2024-09-13,sony confirms ps5 pro next-gen ray-tracing tech 'there amd gpus use yet ',"(S
+  sony/NN
+  confirms/NNS
+  ps5/JJ
+  pro/JJ
+  next-gen/JJ
+  ray-tracing/NN
+  tech/NN
+  'there/POS
+  amd/NN
+  gpus/NN
+  use/NN
+  yet/RB
+  '/'')","buy link article , future syndication partner may earn commission . pc game perspective , easily interest aspect new sony ps5 pro consol… [ +3058 char ]","(S
+  buy/VB
+  links/NNS
+  articles/NNS
+  ,/,
+  future/JJ
+  syndication/NN
+  partners/NNS
+  may/MD
+  earn/VB
+  commission/NN
+  ./.
+  pc/NN
+  gaming/VBG
+  perspective/NN
+  ,/,
+  easily/RB
+  interesting/VBG
+  aspect/JJ
+  new/JJ
+  sony/NN
+  ps5/JJ
+  pro/JJ
+  consol…/NN
+  [/NNP
+  +3058/NNP
+  chars/VBZ
+  ]/VB)"
+"Acer's formidable new Predator Orion 7000 desktop can crush any game with its RTX 4090, and it's joined by two refreshed Nitro V laptops","What you need to know
+<ul><li>Acer announced two new gaming laptops — the Nitro V 14 and Nitro V 16 — at IFA, along with a new Predator Orion 7000 pre-built gaming desktop.</li><li>The Nitro V 16 an… [+8068 chars]",2024-09-04,"acer 's formidable new predator orion 7000 desktop crush game rtx 4090 , join two refresh nitro v laptop","(S
+  acer/NN
+  's/POS
+  formidable/JJ
+  new/JJ
+  predator/NN
+  orion/NN
+  7000/CD
+  desktop/NN
+  crush/NN
+  game/NN
+  rtx/NN
+  4090/CD
+  ,/,
+  joined/VBD
+  two/CD
+  refreshed/VBD
+  nitro/JJ
+  v/NN
+  laptops/NNS)","need know < ul > < li > acer announce two new game laptops — nitro v 14 nitro v 16 — ifa , along new predator orion 7000 pre-built game desktop. < /li > < li > the nitro v 16 an… [ +8068 char ]","(S
+  need/NN
+  know/VBP
+  </NNP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/JJ
+  acer/NN
+  announced/VBD
+  two/CD
+  new/JJ
+  gaming/VBG
+  laptops/JJ
+  —/JJ
+  nitro/NN
+  v/NN
+  14/CD
+  nitro/JJ
+  v/NN
+  16/CD
+  —/NN
+  ifa/NN
+  ,/,
+  along/IN
+  new/JJ
+  predator/NN
+  orion/NN
+  7000/CD
+  pre-built/JJ
+  gaming/VBG
+  desktop./NN
+  </NNP
+  /li/NNP
+  >/NNP
+  </NNP
+  li/VBZ
+  >/VB
+  the/DT
+  nitro/JJ
+  v/NN
+  16/CD
+  an…/NN
+  [/NNP
+  +8068/NNP
+  chars/VBZ
+  ]/VB)"
+LG’s entry-level OLED is a great gaming TV — and a great deal at $750,"If you’ve been curious about buying an OLED TV, Best Buy has a deal that may pique your interest — and perhaps fit your budget. The U.S. retailer is the only place where you’ll find LG’s B4 OLED 4K T… [+1394 chars]",2024-09-19,lg ’ s entry-level oled great gaming tv — great deal $ 750,"(S
+  lg/NN
+  ’/CD
+  s/JJ
+  entry-level/NN
+  oled/VBD
+  great/JJ
+  gaming/JJ
+  tv/NN
+  —/NNP
+  great/JJ
+  deal/NN
+  $/$
+  750/CD)","you ’ ve curious buying oled tv , best buy deal may pique interest — perhaps fit budget . u.s. retailer place you ’ ll find lg ’ s b4 oled 4k t… [ +1394 char ]","(S
+  you/PRP
+  ’/VBP
+  ve/RB
+  curious/JJ
+  buying/NN
+  oled/VBD
+  tv/NN
+  ,/,
+  best/JJS
+  buy/NN
+  deal/NN
+  may/MD
+  pique/VB
+  interest/NN
+  —/NN
+  perhaps/RB
+  fit/JJ
+  budget/NN
+  ./.
+  (GPE u.s./JJ)
+  retailer/NN
+  place/NN
+  you/PRP
+  ’/VBP
+  ll/JJ
+  find/VBP
+  lg/JJ
+  ’/NNP
+  s/NN
+  b4/NN
+  oled/VBD
+  4k/CD
+  t…/NN
+  [/NNP
+  +1394/NNP
+  chars/VBZ
+  ]/VB)"
+"China is ""the first to train a single generative AI model across multiple data centers"" with an innovative mix of ""non-sanctioned"" GPUs forced by US import blocks on AI tech","What you need to know
+<ul><li>Tech industry analyst Patrick Moorhead claims that a single generative AI model is running across multiple data centers in China.</li><li>Rather than relying on a consi… [+3719 chars]",2024-09-30,china `` the first train single generative ai model across multiple data center '' innovative mix `` non-sanctioned '' gpus force u import block ai tech,"(S
+  china/NN
+  ``/``
+  the/DT
+  first/JJ
+  train/NN
+  single/JJ
+  generative/JJ
+  ai/NN
+  model/NN
+  across/IN
+  multiple/JJ
+  data/NN
+  centers/NNS
+  ''/''
+  innovative/JJ
+  mix/NN
+  ``/``
+  non-sanctioned/JJ
+  ''/''
+  gpus/NN
+  forced/VBD
+  us/PRP
+  import/NN
+  blocks/NNS
+  ai/VBP
+  tech/NN)",need know < ul > < li > tech industry analyst patrick moorhead claim single generative ai model run across multiple data center china. < /li > < li > rather rely consi… [ +3719 char ],"(S
+  need/NN
+  know/VBP
+  </NNP
+  ul/JJ
+  >/NNP
+  </NNP
+  li/VBZ
+  >/JJ
+  tech/NN
+  industry/NN
+  analyst/NN
+  patrick/VBP
+  moorhead/NN
+  claims/NNS
+  single/JJ
+  generative/JJ
+  ai/NN
+  model/NN
+  running/VBG
+  across/IN
+  multiple/JJ
+  data/NN
+  centers/NNS
+  china./VBP
+  </JJ
+  /li/NNP
+  >/NNP
+  </NNP
+  li/VBZ
+  >/NNP
+  rather/RB
+  relying/VBG
+  consi…/NN
+  [/NNP
+  +3719/NNP
   chars/VBZ
   ]/VB)"
