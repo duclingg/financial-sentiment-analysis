@@ -2,7 +2,7 @@
 
 In this program I create a tool that will help predict the price movement of a publicly-traded company's stock, based on the sentiment from news articles mentioning that company, as well as other financial indicators such as stock price.  
 
-By collecting and cleaning news articles, I can then perform the sentiment analysis in regards to the company. And then I can gather important financial data and indicators related to that company.  
+By collecting and cleaning news articles, I can then perform the sentiment analysis in regards to the company. And then I can gather important financial data and indicators.  
 
 After data collection and sentiment analysis, I can build models which determine the correlation between the different data sets, and train a machine learning model to create a tool which will determine the price movement of that stock.
 
@@ -17,10 +17,9 @@ In these notebooks, I am researching and developing the main scope of the tool. 
 
 **Part 3:**  
 [Sentiment Analysis and Data Merging](jupyter/notebooks/single-analysis-pt3.ipynb)  
-*Need to change from NLTK's VADER to FinBERT*
 
 **Part 4:**  
-[Correlation Analysis](jupyter/notebooks/single-analysis-pt4.ipynb)
+[Exploratory Data Analysis](jupyter/notebooks/single-analysis-pt4.ipynb)
 
 **Part 5:**  
 [Model Building and Evaluation] **In progress**  
