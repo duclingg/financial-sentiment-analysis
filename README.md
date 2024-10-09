@@ -17,6 +17,7 @@ In these notebooks, I am researching and developing the main scope of the tool. 
 
 **Part 3:**  
 [Sentiment Analysis and Data Merging](jupyter/notebooks/single-analysis-pt3.ipynb)  
+*Need to change from NLTK's VADER to FinBERT*
 
 **Part 4:**  
 [Correlation Analysis](jupyter/notebooks/single-analysis-pt4.ipynb)
