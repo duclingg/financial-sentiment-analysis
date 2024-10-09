@@ -19,7 +19,7 @@ In these notebooks, I am researching and developing the main scope of the tool. 
 [Sentiment Analysis and Data Merging](jupyter/notebooks/single-analysis-pt3.ipynb)  
 
 **Part 4:**  
-[Exploratory Data Analysis](jupyter/notebooks/single-analysis-pt4.ipynb)
+[Data Analysis](jupyter/notebooks/single-analysis-pt4.ipynb)
 
 **Part 5:**  
 [Model Building and Evaluation] **In progress**  
@@ -30,7 +30,7 @@ In these notebooks, I am researching and developing the main scope of the tool. 
 3. Get your `NewsAPI` key from [newsapi.org](https://newsapi.org)
 4. Download the necessary packages:
     - I recommend creating a Python virtual environment (.venv) running 3.11.5, activate the environment and `pip install`: 
-    - `os`, `dotenv`, `datetime`, `newsapi`, `pandas`, `re`, `string`, `nltk`, `yfinace`, `numpy`
+    - `os`, `dotenv`, `datetime`, `newsapi`, `pandas`, `re`, `string`, `transformers`, `torch`, `yfinance`, `matplotlib`, `seaborn`, `scipy`, `sklearn`
 
 ## What is Sentiment Analysis?
 Also known as opinion mining, it is the process of analyzing large volumes of text to identify and extract subjective information. It is the most common text classification tool to analyze the underlying sentiment; whether that is postive, negative, or neutral.  
